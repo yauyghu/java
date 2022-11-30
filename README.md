@@ -1,1 +1,3 @@
-# java
+Hello, my name is Yaroslav. I am 20 years old, at the moment I am still studying at the university as a lawyer, past the hillel school. I want to say thank you to my IT friends for pushing me to study specifically the Java language. In the future, I want to learn a couple more programming languages and frontend. I have goals that I want to achieve, and the first step is to master the Java language !!)) I am in general terms, I want to be a qualified specialist at the senior level))))
+
+Приветствую, меня зовут Ярослав. мне  20 лет,на данный момент я еще учусь в университете  на юриста по мимо школы хилель. Я хочу сказать спасибо,своим друзям айтишникам что подтолкнули меня на изучание конкретно языка джавы. в дальнейшем я хочу изучит еще пару языков програмирования и frontend.  Я у меня есть цели которые хочу достичь,а первая ступень это освоить язык джава!!)) Я в общих чертах,я хочу быть квалифицированим специалистом на уровне сеньйора))))
